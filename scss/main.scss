@@ -1,0 +1,33 @@
+@import './recursos/reset';
+
+@import './secciones/header';
+@import './secciones/main-index';
+@import './secciones/footer';
+
+
+@font-face {
+    font-family:signlode;
+    src: url('../recursos/font/Signlode.ttf');
+}
+
+.section{
+    background-color: rgb(95, 94, 94);
+    color: white;
+}
+
+a{
+    color: #ffffff;
+    text-decoration:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+

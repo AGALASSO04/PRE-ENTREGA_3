@@ -1,0 +1,21 @@
+.footer{
+    height: 40px;
+    width: auto;
+    background-color: #457947;
+}
+
+.redes{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 7.5px;
+    height: auto;
+}
+
+@media (max-width:550px){
+    .footer{
+        background-color: #0d0e0d;
+        text-align: center;
+        padding: auto;
+        
+    }
+}
